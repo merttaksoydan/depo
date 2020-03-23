@@ -1,0 +1,40 @@
+------------------------------Ubuntu İşletim Sistemine Git Kurmak----------------------------------
+
+
+1."sudo apt-get install git" kurulum için bu komutu çalıştırınız.
+
+
+2.Kurulduktan sonra kurulumun başarılı olup olmadığını anlamak için git'in versiyonuna bakınız.
+
+" git --version "  
+
+
+3."git --version" komutunu kullandıktan sonra aşağıdaki gibi bir çıktı görürseniz kurulum başarılı olmuştur.
+
+"git version 2.17.1"
+
+
+4.Git Config ayarlarını yapmak için;
+
+
+- git config --global user.name "mert" -
+
+- git config --global user.email "kendiemailiniz@example.com"
+
+
+5.Yapılan config ayarlarının doğru çalışıp çalışmadığını öğrenmek için;
+
+
+- git config --global user.name
+
+- git config --global user.email 
+
+oluşurulan kullanıcı adı ve e-mail adresini yazdırıyorsa yapılan config ayarı başarılıdır.
+
+
+
+
+
+
+
+
