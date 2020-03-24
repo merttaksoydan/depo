@@ -1,18 +1,20 @@
-Commit hakkında bilgi edinme = "git log"
+-Commit hakkında bilgi edinme = "git log"
 
-Hangi dosyada hangi işlem yapıldığını yazdıran git komutu = " git blame dosya adı"
+-Hangi dosyada hangi işlem yapıldığını yazdıran git komutu = " git blame dosya adı"
 
-Hangi branch(dalda) olduğumuzu gösteren komut = "git branch"
+-Hangi branch(dalda) olduğumuzu gösteren komut = "git branch"
 
-Farklı bir branch oluşturma = "git branch isim"   (isim=oluşturmak istediğiniz dal adı)
+-Farklı bir branch oluşturma = "git branch isim"   (isim=oluşturmak istediğiniz dal adı)
 
-Oluşturulan branch'a geçmek için = "git checkout isim"
+-Oluşturulan branch'a geçmek için = "git checkout isim"
 
-Branch birleştirmek için "git merge master isim" = (Master=Diğer Branch'ın ismi)
+-Branch birleştirmek için "git merge master isim" = (Master=Diğer Branch'ın ismi)
 
-Oluşturulan Branch'ı silmek için = "git branch -d isim" 
+-Oluşturulan Branch'ı silmek için = "git branch -d isim" 
 
-Oluşturulan Branch'ı Git deposuna yüklemek için = " git push origin isim"
+-Oluşturulan Branch'ı Git deposuna yüklemek için = " git push origin isim "
+
+-Projede değişiklik olup olmadığını anlamak için = "git diff master"
 
 
 YENİ BRANCH OLUŞTURUP DOSYA EKLEME
