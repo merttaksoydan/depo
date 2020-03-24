@@ -1,4 +1,12 @@
-Commit hakkında bilgi edinme "git log"
+Yeni dosya eklemek için =  "git add . "
+
+git commit -m "açıklama" 
+
+
+
+
+
+Commit hakkında bilgi edinme = "git log"
 
 Hangi dosyada hangi işlem yapıldığını yazdıran git komutu = " git blame dosya adı"
 
