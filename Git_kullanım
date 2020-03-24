@@ -16,6 +16,12 @@
 
 -Projede değişiklik olup olmadığını anlamak için = "git diff master"
 
+-Oluşturulan belgeler hakkında bilgi almak için = "git show"
+
+-İş arkadaşıyla birlikte kod geliştirmek için = "git pull"
+
+-Depo içerisinde oluşturulan dosyaları silmek için = "git rm dosya "
+
 
 YENİ BRANCH OLUŞTURUP DOSYA EKLEME
 
